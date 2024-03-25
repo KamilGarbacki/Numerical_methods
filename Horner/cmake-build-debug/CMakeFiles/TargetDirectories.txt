@@ -1,0 +1,3 @@
+C:/Users/ASUS/Documents/GitHub/Numerical_methods/Horner/cmake-build-debug/CMakeFiles/Horner.dir
+C:/Users/ASUS/Documents/GitHub/Numerical_methods/Horner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Documents/GitHub/Numerical_methods/Horner/cmake-build-debug/CMakeFiles/rebuild_cache.dir

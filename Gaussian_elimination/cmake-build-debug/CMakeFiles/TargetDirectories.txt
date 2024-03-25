@@ -1,3 +1,0 @@
-C:/Users/ASUS/Documents/GitHub/Portfolio/Gaussian_elimination/cmake-build-debug/CMakeFiles/Gaussian_elimination.dir
-C:/Users/ASUS/Documents/GitHub/Portfolio/Gaussian_elimination/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ASUS/Documents/GitHub/Portfolio/Gaussian_elimination/cmake-build-debug/CMakeFiles/rebuild_cache.dir
