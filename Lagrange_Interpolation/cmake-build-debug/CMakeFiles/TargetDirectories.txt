@@ -1,3 +1,0 @@
-C:/Users/ASUS/Documents/GitHub/Portfolio/Lagrange_Interpolation/cmake-build-debug/CMakeFiles/Lagrange_Interpolation.dir
-C:/Users/ASUS/Documents/GitHub/Portfolio/Lagrange_Interpolation/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ASUS/Documents/GitHub/Portfolio/Lagrange_Interpolation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

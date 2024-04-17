@@ -1,3 +1,0 @@
-C:/Users/ASUS/Documents/GitHub/Algorithms_and_Data_Structures/Numerical_Integration/cmake-build-debug/CMakeFiles/Numerical_Integration.dir
-C:/Users/ASUS/Documents/GitHub/Algorithms_and_Data_Structures/Numerical_Integration/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ASUS/Documents/GitHub/Algorithms_and_Data_Structures/Numerical_Integration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
