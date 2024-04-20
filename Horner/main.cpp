@@ -1,9 +1,14 @@
 #include <iostream>
 
-double horner(double fac[], int deg, int arg){
-    double result = fac[deg];
-    while(deg-- > 0)
-        result = fac[deg] + arg*result;
+double horner(double poly[], int n, double x)
+{
+    int result = poly[0];  // Initialize result
+
+    // Evaluate value of polynomial
+    // using Horner's method
+    for (int i=1; i<n; i++)
+        result = result*x + poly[i];
+
     return result;
 }
 

@@ -1,0 +1,3 @@
+C:/Users/ASUS/Documents/GitHub/Numerical_methods/Gaussian_quadratures/cmake-build-debug/CMakeFiles/Gaussian_quadratures.dir
+C:/Users/ASUS/Documents/GitHub/Numerical_methods/Gaussian_quadratures/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Documents/GitHub/Numerical_methods/Gaussian_quadratures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
