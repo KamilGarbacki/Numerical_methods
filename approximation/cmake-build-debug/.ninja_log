@@ -1,0 +1,17 @@
+# ninja log v5
+0	765	7357098495066883	CMakeFiles/approximation.dir/main.cpp.obj	4298756643ee45a
+767	1021	7357098497573255	approximation.exe	fff29be78ba1f4e7
+3	682	7357102437928875	CMakeFiles/approximation.dir/main.cpp.obj	4298756643ee45a
+683	790	7357102438954467	approximation.exe	fff29be78ba1f4e7
+4	661	7357103119704615	CMakeFiles/approximation.dir/main.cpp.obj	4298756643ee45a
+662	771	7357103120741505	approximation.exe	fff29be78ba1f4e7
+3	670	7357103280142487	CMakeFiles/approximation.dir/main.cpp.obj	4298756643ee45a
+671	779	7357103281160027	approximation.exe	fff29be78ba1f4e7
+4	756	7357104263921090	CMakeFiles/approximation.dir/main.cpp.obj	4298756643ee45a
+757	866	7357104264984681	approximation.exe	fff29be78ba1f4e7
+3	668	7357104504456925	CMakeFiles/approximation.dir/main.cpp.obj	4298756643ee45a
+669	776	7357104505482246	approximation.exe	fff29be78ba1f4e7
+3	778	7357108038734694	CMakeFiles/approximation.dir/main.cpp.obj	4298756643ee45a
+778	902	7357108039931260	approximation.exe	fff29be78ba1f4e7
+2	770	7357108362601985	CMakeFiles/approximation.dir/main.cpp.obj	4298756643ee45a
+771	890	7357108363747298	approximation.exe	fff29be78ba1f4e7

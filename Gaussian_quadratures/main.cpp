@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cmath>
 #include <vector>
-#include <algorithm>
 
 typedef std::vector<std::vector<double>> variables;
 
@@ -35,21 +34,6 @@ double horner(std::vector<double> poly, int n, double x)
     for (int i=1; i<n; i++)
         result = result*x + poly[i];
 
-    return result;
-}
-
-std::vector<double> poly_multiply(std::vector<double> p1, std::vector<double> p2, int N1 ,int N2){
-    std::vector<double> result;
-
-    for (int i = 0; i < N1+N2-1; i++) {
-        result.push_back(0);
-    }
-
-    for (int i =0; i < N1; i++) {
-        for (int j = 0; j < N2; j++) {
-            result[i+j] += p1[i]*p2[j];
-        }
-    }
     return result;
 }
 
